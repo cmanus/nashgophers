@@ -1,0 +1,8 @@
+framework module "Gonashgopher" {
+	header "ref.h"
+    header "Gonashgopher.objc.h"
+    header "Universe.objc.h"
+    header "Gonashgopher.h"
+
+    export *
+}
